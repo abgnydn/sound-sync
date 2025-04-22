@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+*.log
+
+# Expo
+.expo/
+.idea/
+dist/
+
+# React Native
+ios/
+android/
+build/
+*.jks
+*.p8
+*.p12
+*.key
+certs/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+*.env
+
+# yarn/npm lock files if needed (depends on preference)
+# yarn.lock
+# package-lock.json
+
+# metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macos
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
