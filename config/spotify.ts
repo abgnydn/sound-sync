@@ -1,6 +1,6 @@
 export const spotifyConfig = {
-  clientId: '1234567890abcdef1234567890abcdef',
-  redirectUri: 'soundsync://spotify-auth-callback',
+  clientId: 'dfdff56998e348c79a53671a7ba0baee',
+  redirectUri: 'exp://localhost:8081/--/spotify-auth-callback',
   scopes: [
     'user-read-email', 
     'user-read-private', 
